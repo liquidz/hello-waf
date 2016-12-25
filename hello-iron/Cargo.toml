@@ -1,0 +1,9 @@
+[package]
+name = "hello-iron"
+version = "0.1.0"
+authors = ["liquidz <liquidz.uo@gmail.com>"]
+
+[dependencies]
+
+[dependencies.iron]
+version = "*"
